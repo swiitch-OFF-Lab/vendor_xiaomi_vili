@@ -28,7 +28,7 @@
     <globalAlignHomoDownFactorY>4</globalAlignHomoDownFactorY>    
 	</mfnr>
   <uvnr>
-  	<uvnrParam iso=100>
+  	<uvnrParam iso="100">
   		<alphaValidNum>63,46,50,58,63</alphaValidNum>
   		<uvPyramidLevel>5</uvPyramidLevel>
   		<sigmaDist>0.5,0.5,0.5,0.5,0.5</sigmaDist>
@@ -42,7 +42,7 @@
   		<laplaceCoringPosVal_3>3,8,16,3,8,16</laplaceCoringPosVal_3>  		
   		<laplaceCoringPosVal_4>3,8,16,3,8,16</laplaceCoringPosVal_4>  		
   	</uvnrParam>
-  	<uvnrParam iso=200>
+  	<uvnrParam iso="200">
   		<alphaValidNum>63,46,50,58,63</alphaValidNum>
   		<uvPyramidLevel>5</uvPyramidLevel>
   		<sigmaDist>0.5,0.5,0.5,0.5,0.5</sigmaDist>
@@ -56,7 +56,7 @@
   		<laplaceCoringPosVal_3>6,16,24,6,16,24</laplaceCoringPosVal_3>  		
   		<laplaceCoringPosVal_4>4,12,16,4,12,16</laplaceCoringPosVal_4>  		
   	</uvnrParam>
-  	<uvnrParam iso=400>
+  	<uvnrParam iso="400">
   		<alphaValidNum>42,46,50,58,63</alphaValidNum>
   		<uvPyramidLevel>5</uvPyramidLevel>
   		<sigmaDist>0.5,0.5,0.5,0.5,0.5</sigmaDist>
@@ -70,7 +70,7 @@
   		<laplaceCoringPosVal_3>8,32,96,8,32,96</laplaceCoringPosVal_3>  		
   		<laplaceCoringPosVal_4>8,32,96,8,32,96</laplaceCoringPosVal_4> 	  		
   	</uvnrParam>    
-  	<uvnrParam iso=800>
+  	<uvnrParam iso="800">
   		<alphaValidNum>42,46,50,58,63</alphaValidNum>
   		<uvPyramidLevel>5</uvPyramidLevel>
   		<sigmaDist>0.5,0.5,0.5,0.5,0.5</sigmaDist>
@@ -84,7 +84,7 @@
   		<laplaceCoringPosVal_3>8,32,96,7,30,96</laplaceCoringPosVal_3>  		
   		<laplaceCoringPosVal_4>8,32,96,8,32,96</laplaceCoringPosVal_4> 	 
   	</uvnrParam> 
-  	<uvnrParam iso=1600>
+  	<uvnrParam iso="1600">
   		<alphaValidNum>42,46,50,58,63</alphaValidNum>
   		<uvPyramidLevel>5</uvPyramidLevel>
   		<sigmaDist>0.5,0.5,0.5,0.5,0.5</sigmaDist>
@@ -98,7 +98,7 @@
   		<laplaceCoringPosVal_3>8,32,96,6,32,96</laplaceCoringPosVal_3>  		
   		<laplaceCoringPosVal_4>8,32,96,8,32,96</laplaceCoringPosVal_4> 		
   	</uvnrParam> 
-  	<uvnrParam iso=3200>
+  	<uvnrParam iso="3200">
   		<alphaValidNum>42,46,50,58,63</alphaValidNum>
   		<uvPyramidLevel>5</uvPyramidLevel>
   		<sigmaDist>0.5,0.5,0.5,0.5,0.5</sigmaDist>
@@ -112,7 +112,7 @@
   		<laplaceCoringPosVal_3>8,32,96,6,32,96</laplaceCoringPosVal_3>  		
   		<laplaceCoringPosVal_4>8,32,96,8,32,96</laplaceCoringPosVal_4> 					
   	</uvnrParam>
-  	<uvnrParam iso=6400>
+  	<uvnrParam iso="6400">
   		<alphaValidNum>42,46,50,58,63</alphaValidNum>
   		<uvPyramidLevel>5</uvPyramidLevel>
   		<sigmaDist>0.5,0.5,0.5,0.5,0.5</sigmaDist>
@@ -127,8 +127,8 @@
   		<laplaceCoringPosVal_4>8,32,96,4,30,96</laplaceCoringPosVal_4>  		
   	</uvnrParam>   			  		
   </uvnr>
-  <ynr groupId=0>
-  	<ynrParam iso=100>
+  <ynr groupId="0">
+  	<ynrParam iso="100">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       41,46,15,30,70</alphaFace>
 		  <alphaPortrait>   70,70,15,55,80</alphaPortrait>
@@ -164,7 +164,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,64,64,64,64,64</radialMap>	 	   	   		
   	</ynrParam>
-  	<ynrParam iso=200>
+  	<ynrParam iso="200">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       50,46,30,0,0</alphaFace>
 		  <alphaPortrait>   90,70,36,0,0</alphaPortrait>
@@ -200,7 +200,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,64,64,64,64,64</radialMap> 		 	   		
   	</ynrParam>    
-  	<ynrParam iso=400>
+  	<ynrParam iso="400">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       30,30,35,0,0</alphaFace>
 		  <alphaPortrait>   33,37,42,0,0</alphaPortrait>
@@ -236,7 +236,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,64,64,64,64,64</radialMap>   		 	 			
   	</ynrParam>      	
-  	<ynrParam iso=800>
+  	<ynrParam iso="800">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       30,30,35,0,0</alphaFace>
 		  <alphaPortrait>   33,37,42,0,0</alphaPortrait>
@@ -272,7 +272,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,66,68,70,72,74</radialMap>   		
   	</ynrParam>    	
-  	<ynrParam iso=1600>
+  	<ynrParam iso="1600">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       50,65,80,0,0</alphaFace>
 		  <alphaPortrait>   60,80,100,0,0</alphaPortrait>
@@ -308,7 +308,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,64,64,64,64,64</radialMap> 
   	</ynrParam>  
-  	<ynrParam iso=3200>
+  	<ynrParam iso="3200">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       40,40,43,0,0</alphaFace>
 		  <alphaPortrait>   40,40,45,0,0</alphaPortrait>
@@ -344,7 +344,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,64,64,64,64,64</radialMap>  		
   	</ynrParam>     
-  	<ynrParam iso=6400>
+  	<ynrParam iso="6400">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       40,40,43,0,0</alphaFace>
 		  <alphaPortrait>   40,40,45,0,0</alphaPortrait>
@@ -381,8 +381,8 @@
   		<radialMap>64,64,64,64,64,64</radialMap> 
   	</ynrParam> 
   </ynr> 
-  <ynr groupId=1>  	    	  	    	
-  	<ynrParam iso=100>
+  <ynr groupId="1">  	    	  	    	
+  	<ynrParam iso="100">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       0,0,0,66,126</alphaFace>
 		  <alphaPortrait>   0,0,0,73,135</alphaPortrait>
@@ -418,7 +418,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,64,64,64,64,64</radialMap>   	 	   	   		
   	</ynrParam>
-  	<ynrParam iso=200>
+  	<ynrParam iso="200">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       0,0,0,66,126</alphaFace>
 		  <alphaPortrait>   0,0,0,73,135</alphaPortrait>
@@ -454,7 +454,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,64,64,64,64,64</radialMap>   				  		
   	</ynrParam>    
-  	<ynrParam iso=400>
+  	<ynrParam iso="400">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       0,0,0,66,96</alphaFace>
 		  <alphaPortrait>   0,0,0,73,105</alphaPortrait>
@@ -490,7 +490,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,64,64,64,64,64</radialMap>   		 	
   	</ynrParam>      	
-  	<ynrParam iso=800>
+  	<ynrParam iso="800">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       0,0,0,85,130</alphaFace>
 		  <alphaPortrait>   0,0,0,95,138</alphaPortrait>
@@ -526,7 +526,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,70,82,90,98,114</radialMap>   		 	
   	</ynrParam>    	
-  	<ynrParam iso=1600>
+  	<ynrParam iso="1600">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       0,0,0,110,120</alphaFace>
 		  <alphaPortrait>   0,0,0,120,130</alphaPortrait>
@@ -562,7 +562,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,64,64,64,64,64</radialMap>   		 	
   	</ynrParam>  
-  	<ynrParam iso=3200>
+  	<ynrParam iso="3200">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       0,0,0,110,140</alphaFace>
 		  <alphaPortrait>   0,0,0,150,168</alphaPortrait>
@@ -598,7 +598,7 @@
   		<radialPercent>0,64,99,144,196,256</radialPercent>
   		<radialMap>64,64,64,64,64,64</radialMap>  		
   	</ynrParam>     
-  	<ynrParam iso=6400>
+  	<ynrParam iso="6400">
   		<yPyramidLevel>5</yPyramidLevel>
 		  <alphaFace>       0,0,0,110,140</alphaFace>
 		  <alphaPortrait>   0,0,0,150,168</alphaPortrait>
